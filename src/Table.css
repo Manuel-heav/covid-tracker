@@ -4,6 +4,8 @@
     overflow-x: hidden;
     height: 400px;
     color: #6a5d5d;
+    margin-bottom: 16px;
+    border: 1px #ccc solid;
 }
 
 .table tr{
